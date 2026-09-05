@@ -1,3 +1,6 @@
+
+# Here we define the variables for the S3 bucket-1 resource
+
 variable "bucket_name" {
   description = "The name of the S3 bucket"
   type        = list(string)
