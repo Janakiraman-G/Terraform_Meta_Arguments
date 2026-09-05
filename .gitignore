@@ -1,0 +1,13 @@
+# Local Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Local .terraform directory and plugins
+.terraform/
+
+# Crash log files
+crash.log
+crash.log.*
+
+# Exclude lock file if you prefer not to track provider versions (Note: HashiCorp recommends committing .terraform.lock.hcl)
+#.terraform.lock.hcl
